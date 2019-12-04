@@ -1,0 +1,53 @@
+.body {
+  margin: 0;
+  padding: 0;
+}
+
+#map {
+  position: absolute;
+  top: 55px;
+  bottom: 60px;
+  left: 0px;
+  right: 0px;
+  width: 1150px;
+  height: 800px;
+}
+
+#cardyellow {
+	position: absolute;
+	top: 55px;
+	bottom: 60px;
+	left: 1000px;
+	right: 0px;
+}
+
+#pic1 {
+	width: 120px;
+	height: 120px;
+}
+
+.p {
+	top: 20px;
+	size: 8px;
+}
+
+  #title {
+    font-family: 'Staatliches', cursive;
+  }
+
+  #title2 {
+  	padding-top: 30px;
+    font-family: 'Marvel', sans-serif;
+  }
+
+#beforefooter {
+	padding-top: 810px;
+}
+  #foot {
+  	padding-top: 10px;
+  }
+
+#titlesignout {
+	font-family: 'Staatliches', cursive;
+	padding-top: 600px;
+}
